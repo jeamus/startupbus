@@ -3,6 +3,7 @@
 * Formulte business plan
 * Plan on number of developers
 * Have a lot of fun
+* Make random commits in text files
 
 ## Business plan section
 
